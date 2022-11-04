@@ -21,6 +21,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:ult1mat3s/travel-journal-vite.git main:gh-pages
+git push -f git@github.com:Ult1mat3S/travel-journal-vite.git main:gh-pages
 
 cd -
